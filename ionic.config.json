@@ -1,0 +1,7 @@
+{
+  "name": "MenuandInstallation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
